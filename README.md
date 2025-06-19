@@ -50,19 +50,21 @@ This project mimics modern web motion techniques and brings in advanced user exp
 
  - Structure-first development with animation    integration in mind
 
-- 📚 **Resources & Credits**
-- Design Inspiration: Cynthia Ugwu – Portfolio
+---
 
-- Tutorials & Concepts from:
+- 📚 **Resources & Credits**
+- **Design Inspiration:** Cynthia Ugwu – Portfolio
+
+- **Tutorials & Concepts from:**
 - Shareyan Coding School
 
-- Libraries Used:
+- **Libraries Used:**
 
-- [LocomotiveScroll](https://locomotivemtl.github.io/locomotive-scroll/)
+[LocomotiveScroll](https://locomotivemtl.github.io/locomotive-scroll/)
 
-- [GSAP](https://greensock.com/gsap/)
+[GSAP](https://greensock.com/gsap/)
 
-- [ScrollTrigger](https://greensock.com/scrolltrigger/)
+[ScrollTrigger](https://greensock.com/scrolltrigger/)
 
-- [Remixicon](https://remixicon.com/)
+[Remixicon](https://remixicon.com/)
 
