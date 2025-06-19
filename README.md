@@ -56,7 +56,7 @@ This project mimics modern web motion techniques and brings in advanced user exp
 - **Design Inspiration:** Cynthia Ugwu – Portfolio
 
 - **Tutorials & Concepts from:**
-- Shareyan Coding School
+- Sheryians Coding School
 
 - **Libraries Used:**
 
